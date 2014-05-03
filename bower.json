@@ -8,7 +8,7 @@
     "cool-clock": "Polymer/cool-clock#master",
     "flatiron-director": "Polymer/flatiron-director#master",
     "g-kratu": "Polymer/g-kratu#master",
-    "google-map": "Polymer/google-map#master",
+    "google-map": "aquilax/google-map#master",
     "humane-js": "Polymer/humane-js#master",
     "js-beautify": "Polymer/js-beautify#master",
     "marked-js": "Polymer/marked-js#master",
